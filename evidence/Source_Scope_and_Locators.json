@@ -1,0 +1,1690 @@
+{
+  "SRC01": {
+    "title": "Language is primarily a tool for communication rather than thought",
+    "doi": "10.1038/s41586-024-07522-w",
+    "version_scope": "published article and supplied supplement; pp.575–582; Box1; p.577 transition from necessity to sufficiency",
+    "locators": "pp.575–582; Box1; p.577 transition from necessity to sufficiency",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2024_Nature.pdf",
+        "sha256": "ad536eb75ee89ff3c8d48b87675612bf7a9efdbaf4d1226dc5b8fde98e55df49",
+        "bytes": 2033877
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2024_Nature_SI.pdf",
+        "sha256": "50b87b4df0d71d79b0a26838f7db7d7a994dc7222d859f974a5888a63e61b45d",
+        "bytes": 616868
+      }
+    ],
+    "limits": "The logical criticism of the p.577 sufficiency step is an interpretation of its wording; it does not undo lesion evidence or prove the present proposal. No registered numerical hold; no claimed reanalysis of all studies cited by this review.",
+    "human_verified": false
+  },
+  "SRC02": {
+    "title": "The language network as a natural kind within the broader landscape of the human brain",
+    "doi": "10.1038/s41583-024-00802-4",
+    "version_scope": "published review; SI SM1–SM5; three original workbooks and references document; SI SM2; Fig2D and supplementary Fig1; original workbook IDs/columns",
+    "locators": "SI SM2; Fig2D and supplementary Fig1; original workbook IDs/columns",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2024_NRN.pdf",
+        "sha256": "e164c776b9752bda4e4f2fb2adc493420f539594dba21140f371a0ee2c9bb234",
+        "bytes": 3501466
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2024_NRN_SI.pdf",
+        "sha256": "9ccf502d8762fa4ead90a3d9de8b6c1a75c295a423047adb299bec51b4b05560",
+        "bytes": 575592
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/NRN_FedIvReg_SuppFig1_metadata_final.xlsx",
+        "sha256": "2a898326d3aeced95cb28e9c14c30fc81526925b9a8d636df9f94a9c36f781cb",
+        "bytes": 53817
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/NRN_FedIvReg_SuppTable1_forFig2D_final.xlsx",
+        "sha256": "9d578b6a8cce924239f8b9114ca6a92254aae4aa2cbb6f6dc49661e91eeb8f3f",
+        "bytes": 47239
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/NRN_FedIvReg_SuppTable2_forFig3AB_final.xlsx",
+        "sha256": "95ce2cb184f0ad6913502c7a37c5f737cf3980c800d55f992901f9a7a82e3cb5",
+        "bytes": 50300
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/NRN_FedIvReg_SuppTables1and2_References_final.docx",
+        "sha256": "e5b2fa15d6fdeb8b88d032183b03a3ca9d25a8eb5decce64734268960e60acc0",
+        "bytes": 18577
+      }
+    ],
+    "limits": "Replace the ambiguous '20,55,11 data rows' wording. Cross-study bars are descriptive, not matched causal effects or equivalence tests. Workbook record/condition audit is linked toQ01 and the corrected current record. Cross-study bars remain descriptive,not matched causal or equivalence tests.",
+    "human_verified": false
+  },
+  "SRC03": {
+    "title": "Functional specificity for high-level linguistic processing in the human brain",
+    "doi": "10.1073/pnas.1112937108",
+    "version_scope": "published article and3-pageSI; Methods p.16432; SI TablesS1–S3",
+    "locators": "Methods p.16432; SI TablesS1–S3",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2011_PNAS.pdf",
+        "sha256": "4343cf05eacf5c44ba3075a9eb37c6114f90bee31bdf331b4f2c9d79297c6596",
+        "bytes": 1263007
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Fedorenko_2011_PNAS_SI.pdf",
+        "sha256": "9cc4cc1826f85478a2286f25e464e58250d020d77ac08701f2faa356f4354b66",
+        "bytes": 197079
+      }
+    ],
+    "limits": "Update TASK01's obsolete location hold. Directional corrected nulls do not imply exactly zero activity. No further source-specific hold for the registered task description.",
+    "human_verified": false
+  },
+  "SRC04": {
+    "title": "The Language Network Is Recruited but Not Required for Nonverbal Event Semantics",
+    "doi": "10.1162/nol_a_00030",
+    "version_scope": "published article andSI; Methods pp.178–184; patient Results pp.189–190; S1–S2",
+    "locators": "Methods pp.178–184; patient Results pp.189–190; S1–S2",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Ivanova_2021_NOL.pdf",
+        "sha256": "4ddc4d72a85b30cb624d0255ca908c42460a0a5c6aa1ca14f244c1a93e76a597",
+        "bytes": 935037
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Ivanova_2021_NOL_SI.pdf",
+        "sha256": "a3a70500a90005339bb0bec685817dc36dbd4efaf9b50f6cb73be3678383d292",
+        "bytes": 214500
+      }
+    ],
+    "limits": "Preserved substantial semantic performance must not be called fully normal across patients or domains. Numbers remain tied to task and control sample; no prevalence inference.",
+    "human_verified": false
+  },
+  "SRC05": {
+    "title": "Evidence from formal logical reasoning reveals that the language of thought is not natural language",
+    "doi": "10.1073/pnas.2520095123",
+    "version_scope": "final2026PNAS main article; deposited inventories; finalSI not yet freshly recovered in this audit; Main Table1; healthy-participant Methods; patient rule-induction Methods and Results",
+    "locators": "Main Table1; healthy-participant Methods; patient rule-induction Methods and Results",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Kean_2026_PNAS.pdf",
+        "sha256": "27870aeca280217df52b4ab5145bbb8e117ab19bae2a689ec6422f9785671f1b",
+        "bytes": 1898574
+      }
+    ],
+    "limits": "Do not infer zero common language processing from a null difficulty increment. A previous SI-review statement is provenance, not a fresh SI certification. Keep19/25 and any denominator-dependent proportion on hold until original patient data or finalSI resolves it.",
+    "human_verified": false
+  },
+  "SRC06": {
+    "title": "Three distinct components of pragmatic language use: Social conventions, intonation, and world knowledge–based causal reasoning",
+    "doi": "10.1073/pnas.2424400122",
+    "version_scope": "published article and60-pageSI; Main participant methods; SI printedp.42",
+    "locators": "Main participant methods; SI printedp.42",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Floyd_2025_PNAS.pdf",
+        "sha256": "490337fef3eae1bc78fb8aa6c8e345076e72a770e1d17e8df0e481a89b38b2ae",
+        "bytes": 3817984
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Floyd_2025_PNAS_SI.pdf",
+        "sha256": "16400acacb43b43fca0f9f9426b2d7f11fc2d1e859eed0b62dc8d5d1962480d0",
+        "bytes": 6728611
+      }
+    ],
+    "limits": "This is behavioral factor evidence, not evidence for three neural modules. Do not invent the intended corrected statistic. The printed LRT statistic remains unusable; broad task-fractionation claims remain bounded.",
+    "human_verified": false
+  },
+  "SRC07": {
+    "title": "Details omitted for double-anonymized reviewing",
+    "doi": null,
+    "version_scope": "Published conceptual antecedent; identity withheld for review",
+    "locators": "Details withheld for review",
+    "files": [],
+    "limits": "A direct conceptual antecedent; does not establish linguistic necessity or empirical token-level onset.",
+    "human_verified": false
+  },
+  "SRC08": {
+    "title": "The development of conscious control in childhood",
+    "doi": "10.1016/j.tics.2003.11.001",
+    "version_scope": "published2004article; Printedp.15,Box1; main developmental discussion",
+    "locators": "Printedp.15,Box1; main developmental discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zelazo_2004.pdf",
+        "sha256": "7c73de5871d7e9d2aca94b42f1e41708961af259025aae77f1948d6566e153b6",
+        "bytes": 142364
+      }
+    ],
+    "limits": "This is the author's theoretical commitment, not a demonstrated universal necessity theorem. Use 'Zelazo(2004,Box1)' for the close comparison. No source-specific full-body absence claim is authorized.",
+    "human_verified": false
+  },
+  "SRC09": {
+    "title": "The Heidelberg School and the Limits of Reflection",
+    "doi": "10.1007/978-1-4020-6082-3_12",
+    "version_scope": "author proof of published2007book chapter; Printedpp.271–276 and284,§8",
+    "locators": "Printedpp.271–276 and284,§8",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zahavi_Heidelberg.pdf",
+        "sha256": "941292ac9f967456a888b45252073f13399605fac0779883a97e49fb9c6c0e73",
+        "bytes": 1381935
+      }
+    ],
+    "limits": "Do not represent Zahavi as denying every constructive role of language. Reflective novelty may presuppose minimal first-person givenness. Paraphrase is sufficient; no unverified quotation is activated.",
+    "human_verified": false
+  },
+  "SRC10": {
+    "title": "Inner Speech and ‘Pure’ Thought – Do we Think in Language?",
+    "doi": "10.1007/s13164-023-00678-w",
+    "version_scope": "publisher full text; online2023, finalissue2024; §§4–7, lemma-level definition and aphasia discussion",
+    "locators": "§§4–7, lemma-level definition and aphasia discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Kompa_2023_page.html",
+        "sha256": "3c8437ad8e76417424922aff8f9b44c5a67e9bfefe2544e22dd74fbd46e083a1",
+        "bytes": 498868
+      }
+    ],
+    "limits": "Keep final issue year2024 and pages645–662. Do not define all structured semantics as language. No demonstrated universal linguistic necessity follows.",
+    "human_verified": false
+  },
+  "SRC11": {
+    "title": "The interaction between language and consciousness",
+    "doi": "10.1016/j.neubiorev.2025.106498",
+    "version_scope": "ORBi author postprint; final publisher preview; Author version introduction and integrative/critical discussion; final preview corresponding sections",
+    "locators": "Author version introduction and integrative/critical discussion; final preview corresponding sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Aubinet_preprint.pdf",
+        "sha256": "e054487d3202fb477c6dae1189ddaa60d9775ef993118a6db703e64198969050",
+        "bytes": 557137
+      }
+    ],
+    "limits": "The author-version title and authors match the final record. Complete VOR text identity has not been established. Use reviewed version-specific passages; do not make full-VOR absence claims.",
+    "human_verified": false
+  },
+  "SRC12": {
+    "title": "A comprehensive assessment of current methods for measuring metacognition",
+    "doi": "10.1038/s41467-025-56117-0",
+    "version_scope": "publisher article and suppliedSI; Abstract; metric definitions; reliability, performance/bias and Discussion sections",
+    "locators": "Abstract; metric definitions; reliability, performance/bias and Discussion sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Rahnev_2025_page.html",
+        "sha256": "00d2443685b847feb060103844c89580b460d18914d4d5490c2e0cc7f0291b44",
+        "bytes": 530544
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Rahnev_2025_41467_2025_56117_MOESM1_ESM.pdf",
+        "sha256": "a8ac57cb611ade00460fba57b7f159591c1f5238060a4d77f12425f02f31eafd",
+        "bytes": 354528
+      }
+    ],
+    "limits": "Its operational validity comparisons do not validate awareness of one's own relational use or identify onset. No claim to reproduce every SI simulation/table.",
+    "human_verified": false
+  },
+  "SRC13": {
+    "title": "Reactivity to confidence ratings: evidence of impaired rule-learning",
+    "doi": "10.1007/s11409-025-09413-5",
+    "version_scope": "published paper, supplement, preregistration, original CSV and posted analysis; Participant Methods; Table3; AsPredicted123233; deposited clean-data-wide.csv",
+    "locators": "Participant Methods; Table3; AsPredicted123233; deposited clean-data-wide.csv",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Double_2025_page.html",
+        "sha256": "f6a8087259e1f63bec8c9eed0375774b53924a7f0c29388b89bff3634def2b9d",
+        "bytes": 396325
+      }
+    ],
+    "limits": "Do not treat a diagnostic pooled-cell numerical match as validation of the intended repeated-measures analysis. No exact disputed p/SE is an automatic power input. Complete numerical reconstruction results are reported separately with their assumptions.",
+    "human_verified": false
+  },
+  "SRC14": {
+    "title": "Variability and methodological choices in articulatory suppression tasks: a review",
+    "doi": "10.3389/fpsyg.2026.1736170",
+    "version_scope": "published review and original supplementaryDOCX tables; Review§1.4; Table1/Table2 originalWord rows",
+    "locators": "Review§1.4; Table1/Table2 originalWord rows",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/De_Livio_2026.html",
+        "sha256": "ce08f526e141d09e329bb85115e999484cbbe5cde2a4a31df6ac81263a3067b0",
+        "bytes": 655734
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/DeLivio_Table_1.docx",
+        "sha256": "1133786ffe4da7b01a7cd135df266221ff02c82743bb0171c240d6d8bf71dc45",
+        "bytes": 2909874
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/DeLivio_Table_2.docx",
+        "sha256": "ec405004b4e7968f9a6fd39663a70301702257103bce218ec8c676e859a6ce56",
+        "bytes": 2909452
+      }
+    ],
+    "limits": "Header-inclusive captions should not be used as extra studies. Articulatory suppression does not remove all semantic or linguistic organization. No independent rereading of the147 underlying papers is claimed.",
+    "human_verified": false
+  },
+  "SRC15": {
+    "title": "A Systematic Review of Relationships Between Self-Directed Speech and Self-Processes",
+    "doi": "10.3390/ijcs2030018",
+    "version_scope": "publisher full text and the same-workPDF also labeledSRC45; Methods§2.1–2.2; selection and limitations; publication26August2026",
+    "locators": "Methods§2.1–2.2; selection and limitations; publication26August2026",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Sterling_2026_page.html",
+        "sha256": "7e2d3472bb3d098d2950a1586e54d7ac106abf09afce25332d7759e0baf0d40f",
+        "bytes": 795650
+      }
+    ],
+    "limits": "Correlations among reported traits do not identify event-level causation or first availability. SRC45 is an alias of this review; never count two independent reviews.",
+    "human_verified": false
+  },
+  "SRC16": {
+    "title": "Early language exposure affects neural mechanisms of semantic representations",
+    "doi": "10.7554/elife.81681",
+    "version_scope": "published eLife article; Results participant/background; ROI RSA paragraph; whole-brain qualification",
+    "locators": "Results participant/background; ROI RSA paragraph; whole-brain qualification",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Wang_2023_eLife.html",
+        "sha256": "9b15698a7c387b45b317803421244170c89e9a00022f8ff992d130262b20ba31",
+        "bytes": 480467
+      }
+    ],
+    "limits": "Treat developmental language contribution as compatible evidence; do not infer universal necessity or intact equivalence from null comparisons. No new effect estimate or causal identification is asserted.",
+    "human_verified": false
+  },
+  "SRC17": {
+    "title": "Innate network mechanisms of temporal pole for semantic cognition in neonatal and adult twin studies",
+    "doi": "10.1038/s41467-025-58896-y",
+    "version_scope": "published article,SI and source workbook; Studies1–4; neonatal Methods; supplementaryS5 and cohort table",
+    "locators": "Studies1–4; neonatal Methods; supplementaryS5 and cohort table",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zhu_2025_page.html",
+        "sha256": "162527b69c76269aa6f400f8c32ae1fe165ccfc4f4de9bf90e311d8463007c70",
+        "bytes": 652886
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zhu_2025_41467_2025_58896_MOESM1_ESM.pdf",
+        "sha256": "7a685aea54c3a012340663dcd4bd27f989048cca5641609eff48ed645789dc44",
+        "bytes": 5241737
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zhu_2025_41467_2025_58896_MOESM4_ESM.xlsx",
+        "sha256": "b1b2fc81add9bd21ccaa964cd2c973179452ac71486f98e925ce12fb7b3614eb",
+        "bytes": 1232654
+      }
+    ],
+    "limits": "Neonatal topology does not establish mature semantics at birth; heritability is not immutability. Cohort counts and thek2/k3 choice are checked in the numerical ledger, not pooled as independent samples.",
+    "human_verified": false
+  },
+  "SRC18": {
+    "title": "Functional differentiation and interactions among inferior, medial frontal and posterior temporal cortex in semantic control",
+    "doi": "10.1038/s42003-025-09299-8",
+    "version_scope": "published2026article and suppliedSI; Participant Methods; visual/semantic paradigm; stimulation sections",
+    "locators": "Participant Methods; visual/semantic paradigm; stimulation sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Liu_2025_page.html",
+        "sha256": "adb690c5540aecb0f4c200e408ab2efefbcf98e8125b076f969ed8977cdecedb",
+        "bytes": 743448
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Liu_2025_42003_2025_9299_MOESM2_ESM.pdf",
+        "sha256": "a3e5cf3444b02e8b53006ef39415a936c40516fcc75342cddafc882f36138b24",
+        "bytes": 2825093
+      }
+    ],
+    "limits": "DOI/filename contains2025; final issue citation is2026. DCM/model-space and subgroup limits remain. No complete reanalysis of all DCM code or SI statistics is claimed.",
+    "human_verified": false
+  },
+  "SRC19": {
+    "title": "Evidence for shallow cognitive maps in schizophrenia",
+    "doi": "10.3758/s13415-025-01283-3",
+    "version_scope": "published article and recovered originalSI DOCX; Participants; two-step task/similarity methods; SI pilot and model recovery",
+    "locators": "Participants; two-step task/similarity methods; SI pilot and model recovery",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Karagoz_2025_page.html",
+        "sha256": "0f25af109eeba16660c6879a2ce40a7522a9a192abaf7a3738875d71dd3372ca",
+        "bytes": 620559
+      },
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Karagoz_2025_13415_2025_1283_MOESM1_ESM.docx",
+        "sha256": "6fd27d2f2ac9e2e7ae182f058970bd0130bea461cbc5683d730a9372e588fbfd",
+        "bytes": 252014
+      }
+    ],
+    "limits": "Do not equate this clinical task with a validated unitary B, formal-thought disorder or affective appropriateness. No unrestricted causal/diagnostic generalization. Embedded equation rendering is not fully certified; no exact transcription of those model equations is activated.",
+    "human_verified": false
+  },
+  "SRC20": {
+    "title": "Metacognitive deficits in categorization tasks in a population with impaired inner speech",
+    "doi": "10.1016/j.actpsy.2017.10.004",
+    "version_scope": "author manuscript of published2017paper; Authorpp.7–8,21–23; RSSA/RASA definitions",
+    "locators": "Authorpp.7–8,21–23; RSSA/RASA definitions",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Langland_Hassan_2017.pdf",
+        "sha256": "b72077e7fc41b13629336b401d1d169446219e9a66307e2b5a66678a641d945b",
+        "bytes": 2917753
+      }
+    ],
+    "limits": "Accuracy/agreement proportions do not isolate metacognitive sensitivity. Rhyming is a proxy for inner speech, not proof of absent deeper language. Keep the positive evidence, qualified by sample/exclusion and scoring scope.",
+    "human_verified": false
+  },
+  "SRC21": {
+    "title": "Language facilitates introspection: Verbal mind-wandering has privileged access to consciousness",
+    "doi": "10.1016/j.concog.2017.01.002",
+    "version_scope": "published12-pagearticle; Experiments1–3; Tables1–3; Exp3 participant selection",
+    "locators": "Experiments1–3; Tables1–3; Exp3 participant selection",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Bastian_2017.pdf",
+        "sha256": "0fe1dbb3b8fac5263ef5c20fcdf7ab4f0d1560cc5dfbcf129ba41439d9cc0e99",
+        "bytes": 1195992
+      }
+    ],
+    "limits": "Suppression, category policies and selection permit report/control alternatives; none identifies first token-level reflective onset. No participant/probe count is interchangeable with an independent replication count.",
+    "human_verified": false
+  },
+  "SRC22": {
+    "title": "Intuition, reason, and metacognition",
+    "doi": "10.1016/j.cogpsych.2011.06.001",
+    "version_scope": "published2011article; Printedpp.113,115note1,116Table1; later participant subsections",
+    "locators": "Printedpp.113,115note1,116Table1; later participant subsections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Thompson_2011.pdf",
+        "sha256": "af3285bfbecf14683bf3abe98198f3009f2c2fd5da8e6fded0a6f1ff50e415cf",
+        "bytes": 385987
+      }
+    ],
+    "limits": "Do not generalize FOR to explicit awareness of current cognitive activity. Correlation signs require visual/table checking. Negative signs were visually checked; the2014corrigendum belongs to a different2013paper, not automatically to this2011paper.",
+    "human_verified": false
+  },
+  "SRC23": {
+    "title": "A voice without a mouth no more: The neurobiology of language and consciousness",
+    "doi": "10.1016/j.neubiorev.2022.104772",
+    "version_scope": "published2022review; HOLISTIC architecture; mechanisms and INUS discussion",
+    "locators": "HOLISTIC architecture; mechanisms and INUS discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Skipper_2022.pdf",
+        "sha256": "1013a467dc714abee2ad55058b2bd0fafb640f8d7d548a547f59925cd564cd87",
+        "bytes": 4768546
+      }
+    ],
+    "limits": "Acknowledge the prior explanatory ambition. Mixed evidence and term-based maps do not establish token onset or a unitary hidden semantic layer. No claim that the present paper invented language-enabled self-reflection.",
+    "human_verified": false
+  },
+  "SRC24": {
+    "title": "Reflexivity, Transparency, and Illusionism",
+    "doi": "10.5840/protosociology2019365",
+    "version_scope": "author PDF and publisher DOI metadata; Article title/abstract; intrinsic awareness and reflection discussion",
+    "locators": "Article title/abstract; intrinsic awareness and reflection discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zahavi_2019.pdf",
+        "sha256": "eb4497430c4046ea0e015f3d69b410f76c319b42c358b1d03a75c1b11441ba5c",
+        "bytes": 231210
+      }
+    ],
+    "limits": "Remove the added ':Engaging Garfield' from the bibliographic title; it describes the topic but is absent from these title records. Keep Dan Zahavi as sole author despite malformed metadata contributor fields. The philosophical boundary does not empirically validate a specific awareness assay.",
+    "human_verified": false
+  },
+  "SRC25": {
+    "title": "What we mean when we say semantic: Toward a multidisciplinary semantic glossary",
+    "doi": "10.3758/s13423-024-02556-7",
+    "version_scope": "published final2025glossary; Entries:concept,event semantics,semantic control and representation; pp.263–264",
+    "locators": "Entries:concept,event semantics,semantic control and representation; pp.263–264",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Reilly_2025.pdf",
+        "sha256": "8a8c3d8ee92d031229a86cd97448a8058f3ac23c3abf72fadb279d91c9f2a98c",
+        "bytes": 1601153
+      }
+    ],
+    "limits": "Use finalissue2025 despite online2024. Semantics alone is not evidence of linguistic identity. No exact definition quotation is activated without its entry/page.",
+    "human_verified": false
+  },
+  "SRC26": {
+    "title": "Why the brain needs language in order to be self-conscious",
+    "doi": "10.1016/j.newideapsych.2009.05.001",
+    "version_scope": "Published12-pagearticle; pp.37–48; phase-space argument",
+    "locators": "pp.37–48; phase-space argument",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Neuman_Nave_2010.pdf",
+        "sha256": "2834ddf6b9321dba85f7a06fa232734dbd65b0f94d775d0cd3356dad23debaae",
+        "bytes": 361378
+      }
+    ],
+    "limits": "The reconstruction analogy is not an operationally validated human mechanism. No human onset estimate is imported.",
+    "human_verified": false
+  },
+  "SRC27": {
+    "title": "Thinking, Inner Speech, and Self-Awareness",
+    "doi": "10.1007/s13164-015-0267-y",
+    "version_scope": "Published article; online2015/final2016; Introduction;§3practical knowledge;serial operations",
+    "locators": "Introduction;§3practical knowledge;serial operations",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Roessler_2016.pdf",
+        "sha256": "1e9cba1d13d6454056cca508f0896ed8a46544ad129c60adebabb8d18087293f",
+        "bytes": 290107
+      }
+    ],
+    "limits": "No broad priority claim for current-activity awareness is defensible. Use2016; the narrower evidential contrast must carry the contribution.",
+    "human_verified": false
+  },
+  "SRC28": {
+    "title": "Higher-Order Theories of Consciousness",
+    "doi": "10.1093/oxfordhb/9780199262618.003.0014",
+    "version_scope": "Author-hostedOUP chapter; PDFpp.1–3;§§13.1–13.2",
+    "locators": "PDFpp.1–3;§§13.1–13.2",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Rosenthal_2009.pdf",
+        "sha256": "bb78ebd0cef42a3c246fba0c1c2728a47afa4f80e35ef94f757f116c898dd876",
+        "bytes": 248101
+      }
+    ],
+    "limits": "HOT is not an explicit conscious judgment accompanying every experience. The accessibleOUP copy itself lists editors Beckermann,McLaughlin,Walter; no unsupported reordering.",
+    "human_verified": false
+  },
+  "SRC29": {
+    "title": "Possible links between self-awareness and inner speech: Theoretical background, underlying mechanisms, and empirical evidence",
+    "doi": null,
+    "version_scope": "Author-uploaded text; no new stable typesetPDF; Mechanism and causal-direction discussions;§§II–III",
+    "locators": "Mechanism and causal-direction discussions;§§II–III",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Morin_2005_fulltext_web_review_record.md",
+        "sha256": "46964c81e1cd3f5f8c048b6e9e8ab9be5586b21547cef0f872e1be40649a6c86",
+        "bytes": 2030
+      }
+    ],
+    "limits": "A close antecedent blocking broad novelty claims; a prior review memo was not accepted as primary proof. Paraphrase only; stable visual pagination/exact quotation unconfirmed.",
+    "human_verified": false
+  },
+  "SRC30": {
+    "title": "Relational language and the development of relational mapping",
+    "doi": "10.1016/j.cogpsych.2004.09.004",
+    "version_scope": "Published article; Experiment5,pp.342–345",
+    "locators": "Experiment5,pp.342–345",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Loewenstein_Gentner_2005.pdf",
+        "sha256": "2f354439df16502b0a5515aca0f5bc5ba1972243c6202246e13996b767ced8c6",
+        "bytes": 544050
+      }
+    ],
+    "limits": "A significant subgroup cannot replace the overall immediate contrast; no supplied labels does not mean no inner language. No all-five-experiment data reproduction claimed.",
+    "human_verified": false
+  },
+  "SRC31": {
+    "title": "Inner speech as a mediator of self-awareness, self-consciousness, and self-knowledge: An hypothesis",
+    "doi": "10.1016/0732-118x(94)90020-5",
+    "version_scope": "Author-uploaded text andpublisher DOI record; 1990article; page markers around341–342",
+    "locators": "1990article; page markers around341–342",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Morin_Everett_1990_fulltext_web_review_record.md",
+        "sha256": "94a891be412832ff5804cd0e3ee1ece326e29011545d9942a419429a7890fa3c",
+        "bytes": 1665
+      }
+    ],
+    "limits": "Do not infer publication year from DOI syntax or treat a hypothesis as a controlled onset test. No exact quotation/visually certified page citation activated.",
+    "human_verified": false
+  },
+  "SRC32": {
+    "title": "Language Re-Entrance and the ‘Inner Voice’",
+    "doi": null,
+    "version_scope": "Supplied article; Semiotic cycle andlanguage re-entry sections",
+    "locators": "Semiotic cycle andlanguage re-entry sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Steels_2003.pdf",
+        "sha256": "2dd4f52f4eceb0c845000803e724bfa34a459942b9beb3286d58a685741dbe57",
+        "bytes": 196732
+      }
+    ],
+    "limits": "Engineering functions do not establish human phenomenality,necessity or first onset. Do not claim re-entry itself as a new discovery.",
+    "human_verified": false
+  },
+  "SRC33": {
+    "title": "Language in schizophrenia and aphasia: the relationship with non-verbal cognition and thought disorder",
+    "doi": "10.1080/13546805.2019.1668758",
+    "version_scope": "Author version of2019article; Abstract;sample Methods;composite definitions",
+    "locators": "Abstract;sample Methods;composite definitions",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Little_2019.pdf",
+        "sha256": "e588f09b67d02caace05de263d6452cc6d931065d4f47443dc7f2bb72b61b590",
+        "bytes": 788565
+      }
+    ],
+    "limits": "Selected composite tests,effective sample sizes andclinical heterogeneity limit unitary-factor inference. No causal diagnosis or all-domain hierarchy.",
+    "human_verified": false
+  },
+  "SRC34": {
+    "title": "The language profile of formal thought disorder",
+    "doi": "10.1038/s41537-018-0061-9",
+    "version_scope": "Published2018article; Abstract;narrative coding;corrected contrasts",
+    "locators": "Abstract;narrative coding;corrected contrasts",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Cokal_2018.pdf",
+        "sha256": "772b7061cac766c4f30ee95af3453cff392c6c3c15e528ae12eeb76b1c6a4076",
+        "bytes": 770502
+      }
+    ],
+    "limits": "Several patient-group contrasts do not survive correction; a narrative is not a joint measure of knowledge,action andaffect. No validated generalized clinicalB factor.",
+    "human_verified": false
+  },
+  "SRC35": {
+    "title": "The relationship between language disorder and thought disorder: Comparing micro- and macrostructure of spoken narratives of people with aphasia and people with schizophrenia",
+    "doi": "10.1016/j.cortex.2025.12.006",
+    "version_scope": "Published2026Cortex article; Methods explicitly identifying same participants asLittle2019",
+    "locators": "Methods explicitly identifying same participants asLittle2019",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Zimmerer_2026.pdf",
+        "sha256": "8337c64292940bbed9481f170fea0d9034038435d03a0accb6d3a4bdffd9e4c3",
+        "bytes": 2137067
+      }
+    ],
+    "limits": "Count observations rather than papers; leakage is a possible design risk,not a demonstrated error. No independent replication or behavioral/affective assay.",
+    "human_verified": false
+  },
+  "SRC36": {
+    "title": "Neurocognitive abnormalities during comprehension of real-world goal-directed behaviors in schizophrenia.",
+    "doi": "10.1037/a0015619",
+    "version_scope": "Published article; Abstract;silent-action-video Methods;ERP Results",
+    "locators": "Abstract;silent-action-video Methods;ERP Results",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Sitnikova_2009.pdf",
+        "sha256": "48ed59343b8d7eea85d69019d52e1e5431a4e878e84ad7b5527641fb1e609030",
+        "bytes": 1001631
+      }
+    ],
+    "limits": "ERP components are not process-exclusive; correlations do not identify language-shapedB. No universal clinical/developmental causal claim.",
+    "human_verified": false
+  },
+  "SRC37": {
+    "title": "An Intact Social Cognitive Process in Schizophrenia: Situational Context Effects on Perception of Facial Affect",
+    "doi": "10.1093/schbul/sbs063",
+    "version_scope": "Published2013article;online2012; Studies1–2;sentence/face context task;Discussion",
+    "locators": "Studies1–2;sentence/face context task;Discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Lee_2013.pdf",
+        "sha256": "ad6743029bd30f10726ce6771f6e77652c52b9b9c7281ae6f7b0e3190bd268a4",
+        "bytes": 1502417
+      }
+    ],
+    "limits": "Verbal,constrained contexts do not establish intact naturalistic or all relational cognition. Keep issueyear2013 andseparate samples distinct.",
+    "human_verified": false
+  },
+  "SRC38": {
+    "title": "Emotional Response Deficits in Schizophrenia: Insights From Affective Science",
+    "doi": "10.1093/schbul/sbn071",
+    "version_scope": "Published2008review; Expression,experience andphysiology sections",
+    "locators": "Expression,experience andphysiology sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Kring_Moran_2008.pdf",
+        "sha256": "fa0e734ef389b2ba24a3a6f5bfb9b45c785228b12ab0acc4b9563d2481c98840",
+        "bytes": 146823
+      }
+    ],
+    "limits": "Outward flatness does not diagnose semantic organization. Review boundary evidence,not a new experiment.",
+    "human_verified": false
+  },
+  "SRC39": {
+    "title": "Language in Schizophrenia Part 1: An Introduction",
+    "doi": "10.1111/j.1749-818x.2010.00216.x",
+    "version_scope": "PublishedPart1review; Abstract;§3semantic-memory/executive accounts",
+    "locators": "Abstract;§3semantic-memory/executive accounts",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Kuperberg_2010_Part1.pdf",
+        "sha256": "ee77f0d5255a0e26206221936f4fc8edcc1a3d572715463b7bde96ea225666aa",
+        "bytes": 110310
+      }
+    ],
+    "limits": "Review synthesis cannot validate the project construct. Parts1/2 are not independent patient replications.",
+    "human_verified": false
+  },
+  "SRC40": {
+    "title": "Language in Schizophrenia Part 2: What Can Psycholinguistics Bring to the Study of Schizophrenia…and Vice Versa?",
+    "doi": "10.1111/j.1749-818x.2010.00217.x",
+    "version_scope": "PublishedPart2review; Abstract;online psycholinguistics;action/event bridge",
+    "locators": "Abstract;online psycholinguistics;action/event bridge",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Kuperberg_2010_Part2.pdf",
+        "sha256": "c8e91be86629f82e5d16d5d78a6db3d16d05455b28bade67c8f2ad3f3f682cd4",
+        "bytes": 112378
+      }
+    ],
+    "limits": "No unitaryB,linguistic developmental origin or onset follows. Maintain2010a/2010b consistently ifboth are cited.",
+    "human_verified": false
+  },
+  "SRC41": {
+    "title": "Self-Reflection and the Inner Voice: Activation of the Left Inferior Frontal Gyrus During Perceptual and Conceptual Self-Referential Thinking",
+    "doi": "10.2174/1874440001206010078",
+    "version_scope": "Original open full-textXML; Methods;§3.1Results;title/author metadata",
+    "locators": "Methods;§3.1Results;title/author metadata",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Morin_Hamper_2012.xml",
+        "sha256": "8fb67433cbdfd3a8c5185a8bb63c62de444866a8bfe64afb30362652aecaf4f7",
+        "bytes": 240580
+      }
+    ],
+    "limits": "Use72/130 orabout55%; withhold the invalid conventional chi-square inference andany invented correction. Previously blank bibliographic fields are complete from primary metadata. The printed chi-square remains withheld;72/130 is a study-report count,not coordinate meta-analysis or causal evidence.",
+    "human_verified": false
+  },
+  "SRC42": {
+    "title": "Developing Self-Awareness in Robots via Inner Speech",
+    "doi": "10.3389/frobt.2020.00016",
+    "version_scope": "Original open full-textXML; Architecture andPepper robot laboratory setup",
+    "locators": "Architecture andPepper robot laboratory setup",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Chella_2020.xml",
+        "sha256": "b1a46f5071d05abf49bcf8774ba12658e7ea825af467c3833c531b5bea380a5d",
+        "bytes": 185753
+      }
+    ],
+    "limits": "Functional robot capacities do not establish human phenomenality or neural necessity. Previously blank bibliographic fields are complete. The robotics architecture is functional evidence and does not validate human phenomenality or onset.",
+    "human_verified": false
+  },
+  "SRC43": {
+    "title": "Integrating cognitive neuroscience and clinical perspectives on metacognitive mechanisms in psychopathology",
+    "doi": "10.1038/s44159-025-00503-4",
+    "version_scope": "Accepted manuscript plus final publisher metadata/abstract; Local/global,bias/sensitivity/efficiency passages",
+    "locators": "Local/global,bias/sensitivity/efficiency passages",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Seow_2026.pdf",
+        "sha256": "368286d2f64ccfaf2b28a92c89c7d046dce2a4df9680d915953492befb33b975",
+        "bytes": 537578
+      }
+    ],
+    "limits": "Do not call the accepted manuscript the final typeset body; measures are not interchangeable with the present target. No all-cited-study reanalysis or fullVOR equivalence claim.",
+    "human_verified": false
+  },
+  "SRC44": {
+    "title": "Thinking with words: the role of externalization",
+    "doi": "10.1007/s10988-025-09447-7",
+    "version_scope": "Published2025article; §§3–5;labels andexternalization",
+    "locators": "§§3–5;labels andexternalization",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Primary_Source_Archive_v2.zip"
+        ],
+        "member_path": "sources/Vicente_Collins_Jary_2025.pdf",
+        "sha256": "7d7751a713f4ff5c63d891ed837aadd3ace3b13686f9307bec672c5aca7b5bef",
+        "bytes": 349181
+      }
+    ],
+    "limits": "No conclusion that all semantics is linguistic or that tested reflective onset is established. Keep modality anddevelopmental inference limits.",
+    "human_verified": false
+  },
+  "SRC46": {
+    "title": "Re-representing consciousness: dissociations between experience and meta-consciousness",
+    "doi": "10.1016/s1364-6613(02)01949-6",
+    "version_scope": "Published2002article; pp.339–344;temporal/translation dissociations",
+    "locators": "pp.339–344;temporal/translation dissociations",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Article_Recovery_Supplement_v1.zip"
+        ],
+        "member_path": "new_sources/Schooler_2002.pdf"
+      }
+    ],
+    "limits": "Not a demonstration of language-specific onset. No priority claim for re-representation or the basic distinction.",
+    "human_verified": false
+  },
+  "SRC47": {
+    "title": "Experience, Meta-consciousness, and the Paradox of Introspection",
+    "doi": null,
+    "version_scope": "Supplied scanned article copy; Detection,transformation,substitution;printedpp.32–35",
+    "locators": "Detection,transformation,substitution;printedpp.32–35",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Article_Recovery_Supplement_v1.zip"
+        ],
+        "member_path": "new_sources/Schooler_Schreiber_2004.pdf"
+      }
+    ],
+    "limits": "OCR is imperfect; bounded paraphrase is supported. Exact quotation andvisual page-specific wording unconfirmed; none activated.",
+    "human_verified": false
+  },
+  "SRC48": {
+    "title": "Mindful meta-awareness: sustained and non-propositional",
+    "doi": "10.1016/j.copsyc.2019.07.003",
+    "version_scope": "Published2019article; pp.307–311",
+    "locators": "pp.307–311",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Article_Recovery_Supplement_v1.zip"
+        ],
+        "member_path": "new_sources/Dunne_2019.pdf"
+      }
+    ],
+    "limits": "Substantive conceptual alternative,not a new experiment proving language-free access to the exact project target. Do not reduce it to confidence or treat it as disproof of every linguistic contribution.",
+    "human_verified": false
+  },
+  "SRC49": {
+    "title": "Opening the black box: Think Aloud as a method to study the spontaneous stream of consciousness",
+    "doi": "10.1016/j.concog.2025.103815",
+    "version_scope": "Published2025article; Studies1–2 participant flow;Results/Discussion",
+    "locators": "Studies1–2 participant flow;Results/Discussion",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip",
+          "historical_packages/Article_Recovery_Supplement_v1.zip"
+        ],
+        "member_path": "new_sources/Garg_2025.pdf"
+      }
+    ],
+    "limits": "Nonsignificance is not equivalence or universal neutrality; think-aloud is not identical to linguistic reflexivity. No unreported effect estimate activated.",
+    "human_verified": false
+  },
+  "SRC50": {
+    "title": "Visibility Is Not Equivalent to Confidence in a Low Contrast Orientation Discrimination Task",
+    "doi": "10.3389/fpsyg.2016.00591",
+    "version_scope": "Publisher full text; Participants;Procedure;Data Analysis",
+    "locators": "Participants;Procedure;Data Analysis",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Rausch_2016.html"
+      }
+    ],
+    "limits": "Counterbalancing does not erase report carryover; this is not own-activity versus product awareness. No language manipulation or onset assay.",
+    "human_verified": false
+  },
+  "SRC51": {
+    "title": "Modelling visibility judgments using models of decision confidence",
+    "doi": "10.3758/s13414-021-02284-3",
+    "version_scope": "Published2021paper; Experiments1–2;parameter comparison",
+    "locators": "Experiments1–2;parameter comparison",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Rausch_2021.xml"
+      }
+    ],
+    "limits": "Model comparisons vary bycriterion/dataset; superiority is not universal. No simulation re-execution or awareness-onset inference.",
+    "human_verified": false
+  },
+  "SRC52": {
+    "title": "How Do You Know If You Were Mind Wandering? Dissociating Explicit Memories of Off Task Thought From Subjective Feelings of Inattention",
+    "doi": "10.1162/opmi_a_00142",
+    "version_scope": "Published article;originalE2zip andCSV; Experiment1/2 Methods;E2/index.html510–526;depositedE2_mrt_data.csv",
+    "locators": "Experiment1/2 Methods;E2/index.html510–526;depositedE2_mrt_data.csv",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Mathews_2024.xml"
+      }
+    ],
+    "limits": "The implementation/data disagree with theE2Methods13-probe statement. Trial events are not identical to successful button responses or externally verified thought contents. No M-ratio result reproduction or report-truth validation is claimed.",
+    "human_verified": false
+  },
+  "SRC53": {
+    "title": "Inner speech and sign languages",
+    "doi": "10.1007/s11229-026-05554-5",
+    "version_scope": "Published2026paper; Perspective/process-product andself-knowledge sections",
+    "locators": "Perspective/process-product andself-knowledge sections",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Gregory_2026.pdf"
+      }
+    ],
+    "limits": "Do not present it as new empirical validation of actual signed inner experience or onset. Retain sign-language inclusion without an auditory-only definition.",
+    "human_verified": false
+  },
+  "SRC54": {
+    "title": "The Role of Inner Speech in Human Behavior: Reflective Inner Speech Cycle (RISC) Model",
+    "doi": "10.1007/s12124-025-09925-4",
+    "version_scope": "Full supplied published 2025 article, 14 pages, including model description, comparisons, limits, declarations and references; conceptual reading, not replication of cited studies.",
+    "locators": "3–6, Fig. 1 p. 3 (PDF 3–6); 5–6,8–9 (PDF 5–6,8–9); 7; prospective extension p. 11 (PDF 7,11); 6–7,12 (PDF 6–7,12); 10 (PDF 10)",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Tomson_2025.html"
+      },
+      {
+        "local_user_supplied_pdf": "C:/Users/DiaKo System/Downloads/Documents/The-Role-of-Inner-Speech-in-Human-Behavior-Reflective-Inner-Speech-Cycle-RISC-Model.pdf",
+        "sha256": "9fa91e55d698e02a53847f2e82f674e5392c004ddbf92ee419a9fc388360e00d",
+        "redistributed_in_release": false
+      }
+    ],
+    "limits": "A theoretical functional cycle is not causal or onset evidence. RISC already includes reflective awareness and revision; only its stated initiation scope can be contrasted directly. Do not infer a universal necessity claim or theoretical superiority from the model.",
+    "human_verified": false
+  },
+  "SRC55": {
+    "title": "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)",
+    "doi": "10.1177/09567976251335583",
+    "version_scope": "Full publisher commentary; PsychologicalScience36(9),765–767;main argument",
+    "locators": "PsychologicalScience36(9),765–767;main argument",
+    "files": [],
+    "limits": "This is a methodological criticism,not proof that every person has inner speech. Do not collapse experience-frequency reports into absence of all linguistic processing.",
+    "human_verified": false
+  },
+  "SRC56": {
+    "title": "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)",
+    "doi": "10.1177/09567976251413525",
+    "version_scope": "UNLV penultimate authorPDF,9pages; Points1–18",
+    "locators": "Points1–18",
+    "files": [],
+    "limits": "Attribute this position to the commentator;DES is fidelity-aspiring,not infallible ground truth. FinalVOR text equivalence remains unestablished; cite the identified version for detailed claims.",
+    "human_verified": false
+  },
+  "SRC57": {
+    "title": "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia",
+    "doi": "10.1177/09567976241243004",
+    "version_scope": "Copenhagen peer-reviewed author version; Abstract;group/task methods andresults",
+    "locators": "Abstract;group/task methods andresults",
+    "files": [],
+    "limits": "The groups are based on reported frequency; this is not randomized deletion of all language or evidence of complete absence. No universal necessity or equivalence conclusion.",
+    "human_verified": false
+  },
+  "SRC58": {
+    "title": "Metacognitive sensitivity of subjective reports of decisional confidence and visual experience",
+    "doi": "10.1016/j.concog.2015.02.011",
+    "version_scope": "OriginalLMU dissertation,chapter5; Printedpp.116–119;§5.3.1;PDFpages125–128",
+    "locators": "Printedpp.116–119;§5.3.1;PDFpages125–128",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Rausch_2015_crossref.json"
+      }
+    ],
+    "limits": "A version is identified as published under the2015DOI; exact full-text identity toVOR is not established. These are not independent new replications. Use version-scoped procedural paraphrase; no newly reproduced inferential estimates.",
+    "human_verified": false
+  },
+  "SRC59": {
+    "title": "Different subjective awareness measures demonstrate the influence of visual identification on perceptual awareness ratings",
+    "doi": "10.1016/j.concog.2014.04.009",
+    "version_scope": "Jagiellonian deposited publishedPDF; §§2.1–2.2,pp.111–112;selectedResults",
+    "locators": "§§2.1–2.2,pp.111–112;selectedResults",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Wierzchon_2014_crossref.json"
+      }
+    ],
+    "limits": "The discrepancy is verified butits intended correction is unknown. Do not silently choose a repairedN or use it as a power-design denominator.",
+    "human_verified": false
+  },
+  "SRC60": {
+    "title": "Why are you talking to yourself? The epistemic role of inner speech in reasoning",
+    "doi": "10.1111/nous.12385",
+    "version_scope": "DeepBlue publisherPDF,26pages; pp.841–866,especially857–859;§§1,3.1–3.3,4–5",
+    "locators": "pp.841–866,especially857–859;§§1,3.1–3.3,4–5",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Munroe_crossref_search.json"
+      }
+    ],
+    "limits": "This is a close antecedent blocking broad priority claims; its arithmetic/epistemic argument is domain-bounded. The repositoryAPI recovered the actualPDF after legacy links failed.",
+    "human_verified": false
+  },
+  "SRC61": {
+    "title": "Thinking through talking to yourself: Inner speech as a vehicle of conscious reasoning",
+    "doi": "10.1080/09515089.2022.2042505",
+    "version_scope": "Full supplied 2022 online-first article, printed pp. 1–27 including notes and references; argument inspected directly; no new replication of cited empirical studies.",
+    "locators": "2 (PDF 3); 11–14 (PDF 12–15); 12–14 (PDF 13–15); 17–18 (PDF 18–19); 15–17; note 29 on p. 21 (PDF 16–18,22)",
+    "files": [
+      {
+        "archive_chain": [
+          "basis/Article_Redesign_Readiness_Package_v1.zip"
+        ],
+        "member_path": "gap_closure/sources/Munroe_crossref_search.json"
+      },
+      {
+        "local_user_supplied_pdf": "C:/Users/DiaKo System/Downloads/Documents/munroe2022.pdf",
+        "sha256": "ebfe7ad6a8ffc4b9126d863db5bc0ba8632d449e8ac98377a519fbe5a86d6bf6",
+        "redistributed_in_release": false
+      }
+    ],
+    "limits": "The article argues for a possible constitutive vehicle of conscious reasoning; it neither establishes universal language necessity nor measures first reflective own-use access. Do not treat theoretical clinical discussion as independent evidence.",
+    "human_verified": false
+  },
+  "SRC63": {
+    "title": "A theory of implicit and explicit knowledge",
+    "doi": "10.1017/s0140525x99002186",
+    "version_scope": "Sussex1998author manuscript;published target/exchange available in university-hosted1999PDF; §§2.1.1–2.1.3,3.1–3.2",
+    "locators": "§§2.1.1–2.1.3,3.1–3.2",
+    "files": [],
+    "limits": "This is not an empirical measure of first own-activity awareness; target article andcommentaries are distinct portions of the published exchange. No unverified text identity between the1998manuscript andtypeset1999body is asserted.",
+    "human_verified": false
+  },
+  "SRC64": {
+    "title": "The neural and computational bases of semantic cognition",
+    "doi": "10.1038/nrn.2016.150",
+    "version_scope": "WhiteRose acceptedDOCX plus publisher metadata/key points; Accepted introduction;semantic representation/control sections",
+    "locators": "Accepted introduction;semantic representation/control sections",
+    "files": [],
+    "limits": "The project's relational organization is not the entirety ofCSC andis not linguistically constituted bydefinition. The earlier abstract-only access limit is closed for these accepted-version passages; fullVOR identity is not asserted.",
+    "human_verified": false
+  },
+  "SRC65": {
+    "title": "Semiotics in the head: Thinking about and thinking through symbols",
+    "doi": "10.1111/phpr.12923",
+    "version_scope": "DeepBlue publisherPDF plusWiley full text; Printedpp.432–434,§3.2;introduction/conclusion",
+    "locators": "Printedpp.432–434,§3.2;introduction/conclusion",
+    "files": [],
+    "limits": "It does not empirically demonstrate language necessity for all thought or the project's reflective onset. Finalissue2023a is distinguished from2022online publication.",
+    "human_verified": false
+  },
+  "SRC66": {
+    "title": "Writing is thinking: toward a neuropsychological model of scientific writing as knowledge construction",
+    "doi": "10.3389/fcogn.2026.1932224",
+    "version_scope": "Publisher full text,23September2026; Abstract;§3.3construction cycle;§5.5limitations",
+    "locators": "Abstract;§3.3construction cycle;§5.5limitations",
+    "files": null,
+    "limits": "This is a writing/knowledge-construction comparator,not an experimental confirmation of the project's causal mechanism. No underlying primary-study reanalysis or validated neural circuit is implied.",
+    "human_verified": false
+  },
+  "SRC67": {
+    "title": "Telling more than we can know: Verbal reports on mental processes",
+    "doi": "10.1037/0033-295X.84.3.231",
+    "version_scope": "University-hosted publishedPDF; Opening process-report discussion andcausal-plausibility account",
+    "locators": "Opening process-report discussion andcausal-plausibility account",
+    "files": null,
+    "limits": "Do not turn this into denial of every introspection/content report. The proposed own-use score requires an independent action record; verbal fluency is insufficient.",
+    "human_verified": false
+  },
+  "SRC68": {
+    "title": "How we know our own minds: The relationship between mindreading and metacognition",
+    "doi": "10.1017/S0140525X09000545",
+    "version_scope": "Published target article within university-hosted full exchange; Target§2 andattitude-versus-perceptual/quasi-perceptual distinctions",
+    "locators": "Target§2 andattitude-versus-perceptual/quasi-perceptual distinctions",
+    "files": null,
+    "limits": "No blanket claim that every experience is unconsciously inferred; no empirical consensus is imputed. Commentaries are not additional Carruthers-authored target evidence.",
+    "human_verified": false
+  },
+  "SRC69": {
+    "title": "Inner speech: Development, cognitive functions, phenomenology, and neurobiology",
+    "doi": "10.1037/bul0000021",
+    "version_scope": "Open full text; Development,condensed/expanded forms andmethodology sections",
+    "locators": "Development,condensed/expanded forms andmethodology sections",
+    "files": null,
+    "limits": "Semantic structure is not thereby covert language; a review of functions is not onset identification. No reproduction of all studies cited bythe review.",
+    "human_verified": false
+  },
+  "SRC70": {
+    "title": "Eliciting self-explanations improves understanding",
+    "doi": "10.1207/s15516709cog1803_3",
+    "version_scope": "Author-hosted published1994PDF; Introduction;prompted/control design;comprehension results",
+    "locators": "Introduction;prompted/control design;comprehension results",
+    "files": null,
+    "limits": "Comprehension gains are a close alternative,not proof of accurate self-attribution of one's own recorded use. No claim thatEX01positive results uniquely distinguish the present proposal.",
+    "human_verified": false
+  },
+  "SRC71": {
+    "title": "Using structural equation modeling to detect response shifts and true change",
+    "doi": "10.1007/s11136-004-0830-y",
+    "version_scope": "User-supplied published article PDF, 12 pages, printed pp. 587–598, read in full; response-shift parameter mapping, longitudinal procedure, group/individual limits and conclusion checked. No empirical SEM reanalysis claimed.",
+    "locators": "pp. 588, 591–595; Tables 1–2; Discussion pp. 595–596; Conclusion p. 597",
+    "files": [
+      {
+        "local_user_supplied_pdf": "C:\\Users\\DiaKo System\\Downloads\\Documents\\oort2005.pdf",
+        "sha256": "3c139f5c7dd457b77bf943c3f134c93a5a707614ec6f2f0996cbecb580fd496c",
+        "redistributed_in_release": false
+      }
+    ],
+    "limits": "Longitudinal latent-factor operationalizations depend on a fitting interpretable measurement model and substantively justified constraints. Group-level parameter changes do not label individual awareness transitions; opposing shifts may be missed; parameter changes may have other causes. No awareness-validity transfer or empirical reanalysis claimed.",
+    "human_verified": false
+  },
+  "SRC72": {
+    "title": "Characteristics of dissociable human learning systems",
+    "doi": "10.1017/S0140525X00035032",
+    "version_scope": "Published30-pageUCLPDF; §§2.3,2.3.1–2.3.2;printedp.373",
+    "locators": "§§2.3,2.3.1–2.3.2;printedp.373",
+    "files": null,
+    "limits": "These requirements do not alone identify latent onset or ensure invariance. Target article is distinguished from the full commentary exchange; no all-study replication claimed.",
+    "human_verified": false
+  },
+  "SRC73": {
+    "title": "Estimating the error rates of diagnostic tests",
+    "doi": "10.2307/2530508",
+    "version_scope": "PrimaryHui–Walter paper,pp.167–171; Model assumptions andtwo-population case",
+    "locators": "Model assumptions andtwo-population case",
+    "files": null,
+    "limits": "Parameter/equation counting is not byitself proof of global identification; diagnostic-class results are not automatic temporal-awareness identification. Keep the full167–171range despiteCrossref's start-page-only field.",
+    "human_verified": false
+  },
+  "SRC74": {
+    "title": "Principal stratification in causal inference",
+    "doi": "10.1111/j.0006-341X.2002.00021.x",
+    "version_scope": "Original fullPMC text; Summary;principal-stratum definitions",
+    "locators": "Summary;principal-stratum definitions",
+    "files": null,
+    "limits": "This is not automatically the same as temporalpre/post-awareness transition types; no identification guarantee follows. Use as bounded methodological comparison rather than replacing theITT estimand.",
+    "human_verified": false
+  },
+  "SRC75": {
+    "title": "When seeing is knowing: The role of visual cues in the dissociation between children’s rule knowledge and rule use",
+    "doi": "10.1016/j.jecp.2011.11.005",
+    "version_scope": "Author manuscript of2012paper; Introduction;cue-removal manipulation;Results/Discussion",
+    "locators": "Introduction;cue-removal manipulation;Results/Discussion",
+    "files": null,
+    "limits": "The result does not refute everyLOC proposal or demonstrate absence of linguistic processing. Retain a bounded developmental comparison.",
+    "human_verified": false
+  },
+  "SRC76": {
+    "title": "Partial identification of probability distributions",
+    "doi": "10.1007/b97478",
+    "version_scope": "10-page contents/introduction extract; NOT whole book",
+    "locators": [
+      {
+        "printed": "Introduction, pp. 1–2, 5",
+        "pdf_pages": [
+          6,
+          7,
+          10
+        ],
+        "section": "Partial Identification and Credible Inference"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Manski_2003_contents_and_introduction.pdf"
+    ],
+    "limits": "فقط جلد، فهرست و مقدمهٔ پنج‌صفحه‌ای دریافت و در مواضع مرتبط بررسی شد؛ کران آگاهی از این کتاب نقل نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC77": {
+    "title": "Partial identification of probability distributions with misclassified data",
+    "doi": "10.1016/j.jeconom.2007.12.003",
+    "version_scope": "65-page 2005 Cornell working paper plus 2008 publisher abstract and verified metadata; final 2008 full text not acquired",
+    "locators": [
+      {
+        "printed": "published abstract is an unpaginated web preview; no body page asserted",
+        "pdf_pages": [],
+        "section": "published abstract; bibliographic article range 81–117"
+      },
+      {
+        "printed": "2005 working paper: pp. 1–5, especially p. 2, Eq. (1.1)",
+        "pdf_pages": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "section": "Introduction; direct misclassification formulation"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Molinari_2005_Cornell_working_paper.pdf"
+    ],
+    "limits": "PDF دریافت‌شده نسخهٔ کاری آوریل ۲۰۰۵ است. ادعای کلیِ پیشنهادی با چکیدهٔ ناشرِ ۲۰۰۸ هم تطبیق دارد؛ صفحه و قضیهٔ نسخهٔ کاری به چاپ ۲۰۰۸ نسبت داده نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC78": {
+    "title": "On a confusion about a function of consciousness",
+    "doi": "10.1017/S0140525X00038188",
+    "version_scope": "author-hosted 62-page bundle includes target article, commentaries and replies; cited claims restricted to target article",
+    "locators": [
+      {
+        "printed": "pp. 230–231, 235",
+        "pdf_pages": [
+          4,
+          5,
+          9
+        ],
+        "section": "Two concepts of consciousness; Access-consciousness; Self-consciousness; Monitoring-consciousness"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Block_1995_with_commentaries.pdf"
+    ],
+    "limits": "این تمایز مفهومی، اعتبار تجربیِ سنجهٔ ما یا هیچ کدام از دو سازهٔ نهفته را اثبات نمی‌کند. همهٔ شرح‌ها و پاسخ‌های بستهٔ ۶۲صفحه‌ای از نو ممیزی نشده‌اند.",
+    "human_verified": false
+  },
+  "SRC79": {
+    "title": "Levels of processing versus transfer appropriate processing",
+    "doi": "10.1016/S0022-5371(77)80016-9",
+    "version_scope": "publisher abstract checked; Crossref identity checked; no downloaded full text",
+    "locators": [
+      {
+        "printed": "publisher abstract; no body-page claim",
+        "pdf_pages": [],
+        "section": "Abstract"
+      }
+    ],
+    "files": [],
+    "limits": "PDF کامل از مسیرهای بررسی‌شده دریافت نشد. استناد به اصل کلی محدود است؛ اعداد، جزئیات سه آزمایش و صفحهٔ بدنه نقل نمی‌شوند.",
+    "human_verified": false
+  },
+  "SRC80": {
+    "title": "The self-reference effect in memory: A meta-analysis",
+    "doi": "10.1037/0033-2909.121.3.371",
+    "version_scope": "primary abstract and institutional repository identity checked; PDF endpoints returned 403/404",
+    "locators": [
+      {
+        "printed": "primary abstract; no body-page claim",
+        "pdf_pages": [],
+        "section": "Abstract, PubMed PMID 9136641"
+      }
+    ],
+    "files": [],
+    "limits": "متن کامل دانلود نشد؛ اندازه‌اثر و تحلیل زیرگروه نقل نمی‌شود. هر دو بازوی فعلی موادِ خود فرد دارند؛ این رقیب را نباید به مخدوش‌شدنِ مالکیت تقلیل داد.",
+    "human_verified": false
+  },
+  "SRC81": {
+    "title": "Source monitoring",
+    "doi": "10.1037/0033-2909.114.1.3",
+    "version_scope": "26-page published scan; OCR used for discovery; decisive pp. 3–6 and 20–21 visually confirmed",
+    "locators": [
+      {
+        "printed": "pp. 3–6",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "section": "A Source-Monitoring Framework"
+      },
+      {
+        "printed": "pp. 20–21",
+        "pdf_pages": [
+          18,
+          19
+        ],
+        "section": "MEM component processes and Conclusions"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Johnson_Hashtroudi_Lindsay_1993.pdf"
+    ],
+    "limits": "این اثر هم پیشینهٔ فرایندی و هم رقیبِ تفسیر Y است؛ صرفاً مزاحم حافظه نیست. سنجهٔ آمادهٔ معتبر برای دسترسی به کاربردِ رابطه‌ایِ خود فراهم نمی‌کند.",
+    "human_verified": false
+  },
+  "SRC82": {
+    "title": "Failure to detect mismatches between intention and outcome in a simple decision task",
+    "doi": "10.1126/science.1111709",
+    "version_scope": "20-page repository file contains cover, Science article, adjacent-page fragments and supporting material; target article blocks reviewed separately",
+    "locators": [
+      {
+        "printed": "pp. 117–119",
+        "pdf_pages": [
+          3,
+          4,
+          5
+        ],
+        "section": "manipulation, report categories, and conclusions"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Johansson_et_al_2005.pdf"
+    ],
+    "limits": "از این نتیجه نمی‌توان غیاب آگاهی پیشین یا خطابودنِ همهٔ درون‌نگری‌ها را نتیجه گرفت. وام‌گرفتنِ دست‌کاری، انتخاب طراحی و اعتبارسنجی مستقلی می‌خواهد.",
+    "human_verified": false
+  },
+  "SRC83": {
+    "title": "Seeing conflict and engaging control: Experience with contrastive language benefits executive function in preschoolers",
+    "doi": "10.1016/j.cognition.2016.09.010",
+    "version_scope": "8-page published article; relevant method/results/discussion read; supplementary protocols not acquired; no numerical task-atlas expansion proposed",
+    "locators": [
+      {
+        "printed": "pp. 220–222",
+        "pdf_pages": [
+          2,
+          3,
+          4
+        ],
+        "section": "Method; Experimental manipulation; planned contrast coding"
+      },
+      {
+        "printed": "pp. 223–225",
+        "pdf_pages": [
+          5,
+          6,
+          7
+        ],
+        "section": "Results; Discussion; Conclusion"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Doebel_Zelazo_2016.pdf"
+    ],
+    "limits": "این آزمایش حضور زبان را با فقدان همهٔ زبان مقایسه نمی‌کند و دسترسی آگاهانه به کاربرد خود را نمی‌سنجد. توضیحِ فهم بهتر دستورها در بحث مطرح است؛ ضرورت یا سازوکار اختصاصی اثبات نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC84": {
+    "title": "Thinking and speech",
+    "doi": null,
+    "version_scope": "246-page public transcription, carrying page labels 39–284; Minick edition identity checked against publisher; not a complete facsimile of the 39–285 published part; no claim of whole-volume reading or perfect transcription fidelity",
+    "locators": [
+      {
+        "printed": "edition-corresponding pp. 188–190",
+        "pdf_pages": [
+          150,
+          151,
+          152
+        ],
+        "section": "Chapter 6: conscious awareness and concept systems"
+      },
+      {
+        "printed": "edition-corresponding pp. 204–205, 242",
+        "pdf_pages": [
+          166,
+          167,
+          204
+        ],
+        "section": "grammar and writing; limitations of the research"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Vygotsky_Thinking_and_Speech_archive_transcription.pdf"
+    ],
+    "limits": "نسخهٔ محلی رونویسیِ عمومی با صفحه‌بندی متناظر است، نه اسکن چاپ ۱۹۸۷. نظریهٔ رشد یا نقد تاریخیِ Piaget به شاهد مستقیمِ آزمون بزرگسالان تبدیل نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC85": {
+    "title": "La prise de conscience",
+    "doi": null,
+    "version_scope": "primary digital chapter excerpt accessed through web retrieval; no local full-text PDF; original French, not an unverified English edition",
+    "locators": [
+      {
+        "printed": "no printed page asserted",
+        "pdf_pages": [],
+        "section": "Conclusions générales, opening; §§ II and IV, especially first paragraph of IV",
+        "url": "https://www.unige.ch/piaget/piaget1974PCO_17"
+      }
+    ],
+    "files": [],
+    "limits": "بخش‌هایی از متن اصلیِ دیجیتال دانشگاه ژنو خوانده شد؛ کتاب کامل یا PDF دانلود نشد. مراجعهٔ بعدی رد شد و مسیر بنیاد آزمون تصویری داشت؛ صفحهٔ چاپی یا مطالعهٔ کامل کتاب ادعا نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC86": {
+    "title": "Beyond modularity: A developmental perspective on cognitive science",
+    "doi": null,
+    "version_scope": "29-page author-laboratory chapter excerpt labelled 1992, reprinted 1995; pp. 22–23 visually inspected",
+    "locators": [
+      {
+        "printed": "pp. 15–26, especially 17–18 and 22–25",
+        "pdf_pages": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "section": "Chapter 1: representational redescription and the RR model"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Karmiloff_Smith_1992_author_archive_excerpt.pdf"
+    ],
+    "limits": "E2 فرض نظری است، نه شاهدِ تجربیِ اعتبارسنجی‌شده. متن دریافت‌شده فقط فصل اول است. تکرارِ بازتوصیف یا چهار کارکرد، به‌تنهایی سهم نظری تازه ایجاد نمی‌کند.",
+    "human_verified": false
+  },
+  "SRC87": {
+    "title": "Linguistics and poetics",
+    "doi": null,
+    "version_scope": "34-page university course copy includes 1987 book cover plus pp. 62–94; not the original 1960 pagination",
+    "locators": [
+      {
+        "printed": "p. 69 in the 1987 reprint",
+        "pdf_pages": [
+          9
+        ],
+        "section": "metalingual function"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Jakobson_Linguistics_and_Poetics_course_copy.pdf"
+    ],
+    "limits": "ارجاع پیشنهادی با بازچاپ ۱۹۸۷ و صفحهٔ ۶۹ منطبق است؛ این صفحه به چاپ ۱۹۶۰ نسبت داده نمی‌شود. کارکرد فرازبانی معادل تجربهٔ بازتابی از کاربرد خود نیست.",
+    "human_verified": false
+  },
+  "SRC88": {
+    "title": "Shifters, linguistic categories, and cultural description",
+    "doi": null,
+    "version_scope": "23 facing-page scans cover pp. 11–55; PDF 20 contains printed pp. 48–49, visually verified",
+    "locators": [
+      {
+        "printed": "pp. 48–51",
+        "pdf_pages": [
+          20,
+          21
+        ],
+        "section": "Metapragmatics; Limits to Metapragmatic Awareness"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Silverstein_1976_university_course_copy.pdf"
+    ],
+    "limits": "بحث نظری/زبان‌شناختی، فقدان آگاهی پدیداری را از ناتوانی در گزارش نتیجه نمی‌دهد. این منبع ۱۹۷۶ است و متنِ فصل ۱۹۹۳ به‌جای آن خوانده‌شده معرفی نمی‌شود.",
+    "human_verified": false
+  },
+  "SRC89": {
+    "title": "Reflexive language and the human disciplines",
+    "doi": "10.1017/CBO9780511621031.003",
+    "version_scope": "author-hosted chapter, printed pp. 9–32; facing-page PDF has 14 pages including book cover",
+    "locators": [
+      {
+        "printed": "pp. 9–18, 24–29",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          11
+        ],
+        "section": "Types of reflexive language; semiotic-functional approaches; limits of awareness"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Lucy_1993_Chapter_1.pdf"
+    ],
+    "limits": "این رده‌بندی به‌تنهایی تغییر آگاهیِ فرد یا سازوکار علّیِ آزمایش ما را تأیید نمی‌کند. هدف خودکاربرد باید به‌صورت موردی خاص در این گستره تعریف شود.",
+    "human_verified": false
+  },
+  "SRC90": {
+    "title": "Calculation of signal detection theory measures",
+    "doi": "10.3758/BF03207704",
+    "version_scope": "published article or specified edition",
+    "locators": [
+      {
+        "printed": "pp. 137–141, especially 138–139 and 141",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "section": "Yes/No Tasks; Rating Tasks; Forced-Choice Tasks"
+      }
+    ],
+    "files": [
+      "author_audit/revision_8_3_0/source_review/sources/Stanislaw_Todorov_1999.pdf"
+    ],
+    "limits": "درست/غلط‌بودن نمره، قالب پاسخ را تعیین نمی‌کند. افزودن خودکار d′ یا تغییر وزن طبقات بدون تثبیت تکلیف و برآوردنی توصیه نمی‌شود.",
+    "human_verified": false
+  }
+}

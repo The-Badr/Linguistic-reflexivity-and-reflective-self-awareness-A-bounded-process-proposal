@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "scientific_outputs_compared": 3,
+  "Python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "empirical_validation_claimed": false,
+  "environment_metadata_excluded_from_scientific_comparison": true,
+  "version": "8.3.2",
+  "checked_date": "2026-10-29",
+  "S1_exact_constructions": true,
+  "S2_scenarios": 29,
+  "S3_scenarios": 144,
+  "S3_replications": 4000,
+  "S3_seed": 20261026,
+  "verification_scope": "Scientific values were compared to the supplied baseline outputs; no new empirical validation is claimed."
+}

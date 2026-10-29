@@ -1,0 +1,1 @@
+Supplementary evidence for the article. The structured JSON and CSV contain the same 22 task-level records as approved release 8.3.1. Source-use metadata records the scope of inspected versions and passages; it is not a claim of complete new human verification. SRC07 is anonymized solely for double-anonymized review. No primary source PDFs are redistributed.

@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "synthetic": true,
+  "scope": "Exact reconstruction of the two models in Supplement E only",
+  "pair_order": "baseline report, follow-up report",
+  "results": {
+    "control": {
+      "emergence_model": {
+        "report_joint": {
+          "00": "3/5",
+          "01": "0",
+          "10": "0",
+          "11": "2/5"
+        },
+        "awareness_before": "2/5",
+        "awareness_after": "2/5",
+        "new_awareness": "0"
+      },
+      "reporting_model": {
+        "report_joint": {
+          "00": "3/5",
+          "01": "0",
+          "10": "0",
+          "11": "2/5"
+        },
+        "awareness_before": "3/5",
+        "awareness_after": "3/5",
+        "new_awareness": "0"
+      }
+    },
+    "intervention": {
+      "emergence_model": {
+        "report_joint": {
+          "00": "2/5",
+          "01": "1/5",
+          "10": "0",
+          "11": "2/5"
+        },
+        "awareness_before": "2/5",
+        "awareness_after": "3/5",
+        "new_awareness": "1/5"
+      },
+      "reporting_model": {
+        "report_joint": {
+          "00": "2/5",
+          "01": "1/5",
+          "10": "0",
+          "11": "2/5"
+        },
+        "awareness_before": "3/5",
+        "awareness_after": "3/5",
+        "new_awareness": "0"
+      }
+    }
+  }
+}

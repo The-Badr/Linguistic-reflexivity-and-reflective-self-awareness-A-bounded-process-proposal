@@ -1,0 +1,1193 @@
+{
+  "status": "PASS",
+  "scope": "independent synthetic audit; feasible endpoint witnesses exact, LP optimality numeric",
+  "python": "3.12.14",
+  "scipy": "1.17.0",
+  "compatible_type_count": 24,
+  "regions": {
+    "unrestricted": {
+      "lower": "0",
+      "upper": "1",
+      "witnesses": [
+        {
+          "value": "0",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "1",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "no_false_positives": {
+      "lower": "0",
+      "upper": "3/5",
+      "witnesses": [
+        {
+          "value": "0",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                1,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "3/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "person_invariant": {
+      "lower": "1/5",
+      "upper": "3/5",
+      "witnesses": [
+        {
+          "value": "1/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "3/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "known_baseline_4/5": {
+      "lower": "1/10",
+      "upper": "1/2",
+      "witnesses": [
+        {
+          "value": "1/10",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                1,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "1/2",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "3/10",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                1,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "known_baseline_1": {
+      "lower": "1/5",
+      "upper": "3/5",
+      "witnesses": [
+        {
+          "value": "1/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "3/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "known_baseline_2/3": {
+      "lower": "0",
+      "upper": "2/5",
+      "witnesses": [
+        {
+          "value": "0",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                1,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "2/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                1,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "constant_s_4/5_allow_exit": {
+      "lower": "1/4",
+      "upper": "7/20",
+      "witnesses": [
+        {
+          "value": "1/4",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "3/20",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "1/20",
+              "awareness": [
+                1,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "1/4",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                0,
+                1,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/20",
+              "awareness": [
+                1,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "7/20",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "3/20",
+              "awareness": [
+                0,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/20",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                0,
+                1,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "mass": "1/10",
+              "awareness": [
+                1,
+                0,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "person_invariant_onset_difference": {
+      "lower": "-1/5",
+      "upper": "3/5",
+      "witnesses": [
+        {
+          "value": "-1/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                1,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "3/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "person_invariant_prevalence_difference": {
+      "lower": "-1/5",
+      "upper": "3/5",
+      "witnesses": [
+        {
+          "value": "-1/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                1,
+                0
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "value": "3/5",
+          "exact_feasible_witness": [
+            {
+              "mass": "2/5",
+              "awareness": [
+                1,
+                1,
+                1
+              ],
+              "reports": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "mass": "1/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "mass": "2/5",
+              "awareness": [
+                0,
+                0,
+                1
+              ],
+              "reports": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "successful_lp_scenarios": 29,
+  "baseline_grid": [
+    {
+      "s_b": "2/5",
+      "region": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "s_b": "9/20",
+      "region": [
+        "0",
+        "1/9"
+      ]
+    },
+    {
+      "s_b": "1/2",
+      "region": [
+        "0",
+        "1/5"
+      ]
+    },
+    {
+      "s_b": "11/20",
+      "region": [
+        "0",
+        "3/11"
+      ]
+    },
+    {
+      "s_b": "3/5",
+      "region": [
+        "0",
+        "1/3"
+      ]
+    },
+    {
+      "s_b": "13/20",
+      "region": [
+        "0",
+        "5/13"
+      ]
+    },
+    {
+      "s_b": "7/10",
+      "region": [
+        "1/35",
+        "3/7"
+      ]
+    },
+    {
+      "s_b": "3/4",
+      "region": [
+        "1/15",
+        "7/15"
+      ]
+    },
+    {
+      "s_b": "4/5",
+      "region": [
+        "1/10",
+        "1/2"
+      ]
+    },
+    {
+      "s_b": "17/20",
+      "region": [
+        "11/85",
+        "9/17"
+      ]
+    },
+    {
+      "s_b": "9/10",
+      "region": [
+        "7/45",
+        "5/9"
+      ]
+    },
+    {
+      "s_b": "19/20",
+      "region": [
+        "17/95",
+        "11/19"
+      ]
+    },
+    {
+      "s_b": "1",
+      "region": [
+        "1/5",
+        "3/5"
+      ]
+    }
+  ],
+  "constant_sensitivity_grid": [
+    {
+      "s": "3/5",
+      "point": "1/3"
+    },
+    {
+      "s": "13/20",
+      "point": "4/13"
+    },
+    {
+      "s": "7/10",
+      "point": "2/7"
+    },
+    {
+      "s": "3/4",
+      "point": "4/15"
+    },
+    {
+      "s": "4/5",
+      "point": "1/4"
+    },
+    {
+      "s": "17/20",
+      "point": "4/17"
+    },
+    {
+      "s": "9/10",
+      "point": "2/9"
+    },
+    {
+      "s": "19/20",
+      "point": "4/19"
+    },
+    {
+      "s": "1",
+      "point": "1/5"
+    }
+  ],
+  "invalid_parameter_rejected": true,
+  "interpretation_examples": {
+    "nonzero_report_cells_nonidentification": {
+      "perfect": {
+        "report_joint": {
+          "control": {
+            "00": "2/5",
+            "01": "1/5",
+            "10": "1/5",
+            "11": "1/5"
+          },
+          "intervention": {
+            "00": "3/10",
+            "01": "3/10",
+            "10": "1/10",
+            "11": "3/10"
+          }
+        },
+        "awareness_prevalence": [
+          "2/5",
+          "2/5",
+          "3/5"
+        ],
+        "sensitivity": [
+          "1",
+          "1",
+          "1"
+        ],
+        "onset_t": "3/10",
+        "onset_c": "1/5"
+      },
+      "imperfect": {
+        "report_joint": {
+          "control": {
+            "00": "2/5",
+            "01": "1/5",
+            "10": "1/5",
+            "11": "1/5"
+          },
+          "intervention": {
+            "00": "3/10",
+            "01": "3/10",
+            "10": "1/10",
+            "11": "3/10"
+          }
+        },
+        "awareness_prevalence": [
+          "1/2",
+          "1/2",
+          "3/4"
+        ],
+        "sensitivity": [
+          "4/5",
+          "4/5",
+          "4/5"
+        ],
+        "onset_t": "3/8",
+        "onset_c": "1/4"
+      }
+    },
+    "Box1_person_invariant_net_zero_awareness_effect": {
+      "report_joint": {
+        "control": {
+          "00": "3/5",
+          "01": 0,
+          "10": 0,
+          "11": "2/5"
+        },
+        "intervention": {
+          "00": "2/5",
+          "01": "1/5",
+          "10": 0,
+          "11": "2/5"
+        }
+      },
+      "awareness_prevalence": [
+        "2/5",
+        "3/5",
+        "3/5"
+      ],
+      "sensitivity": [
+        "1",
+        "2/3",
+        "1"
+      ],
+      "onset_t": "1/5",
+      "onset_c": "1/5"
+    }
+  }
+}

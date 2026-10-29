@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite these computational materials when reusing them."
+type: software
+title: "Computational materials for Linguistic reflexivity and reflective self-awareness A bounded process proposal"
+version: 8.3.2
+date-released: 2026-10-29
+authors:
+  - family-names: Farnam
+    given-names: Alireza
+    orcid: "https://orcid.org/0000-0002-6985-6961"
+  - family-names: Badr
+    given-names: Amirreza
+repository-code: "https://github.com/The-Badr/Linguistic-reflexivity-and-reflective-self-awareness-A-bounded-process-proposal"
+license: MIT
+abstract: "Exact synthetic constructions, identification-region checks, hypothetical design simulations, and a deterministic explanatory schematic. No participant observations."

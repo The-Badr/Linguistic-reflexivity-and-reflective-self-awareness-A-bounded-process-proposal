@@ -1,0 +1,39 @@
+{
+  "scope": "Illustrative assumed operating characteristics of equally weighted participant-mean attribution accuracy; no empirical pilot or sample-size recommendation.",
+  "seed": 20261026,
+  "replications": 4000,
+  "persons_per_arm": [
+    40,
+    80,
+    160
+  ],
+  "items_per_person": [
+    12,
+    24
+  ],
+  "control_mean": [
+    0.5,
+    0.65
+  ],
+  "observed_mean_difference": [
+    0.0,
+    0.05,
+    0.1
+  ],
+  "item_ICC": [
+    0.0,
+    0.15
+  ],
+  "MCAR_dropout": [
+    0.0,
+    0.1
+  ],
+  "assumption_notes": [
+    "All participants meet an already fixed observed eligibility rule",
+    "K is fixed and equal within each scenario",
+    "Positive within-person dependence follows a beta-binomial mixture",
+    "Dropout is participant-level and independent of outcomes",
+    "No relation between the simulated score and conscious access is assumed",
+    "No baseline covariate adjustment or power for a linguistic-mechanism test is simulated"
+  ]
+}
