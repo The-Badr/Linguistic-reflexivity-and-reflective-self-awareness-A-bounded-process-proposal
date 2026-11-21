@@ -7,4 +7,4 @@ the optional numerical cross-checks. All inputs are synthetic.
 
 The code is distributed under the [MIT License](./LICENSE).
 
-SHA-256 of the archive: `6f45d0d87c2e69392c712d630af4493fe1369f00bd9a19b1ff5921acc42350dc`
+SHA-256 of the archive: `e2967a10fb71ab3f16fb26f1d355bd487d311c88f08510c7e198458207fb1f7a`
